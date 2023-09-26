@@ -2,9 +2,9 @@
 
 ## Description
 
-This is a simple packet tracer, written in Objective-C for macOS environment.
-It utilizes the BPF technology, and uses BPF pseudo-device as the sniffer.
-By default, it will also try to send a NULL answer to DNS requests,
+This is a simple packet tracer, written in Objective-C for macOS environment.<br>
+It utilizes the BPF technology, and uses BPF pseudo-device as the sniffer.<br>
+By default, it will also try to send a NULL answer to DNS requests,<br>
 in order to perform some tiny DOS incidents.
 
 ## Getting Started
